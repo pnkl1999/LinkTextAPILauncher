@@ -1,0 +1,3 @@
+LinkFlash: http://gundaiviet.com/flash/
+LinkAPI: http://quest.gundaiviet.com/
+LinkConfig: http://gundaiviet.com/flash/config.xml
